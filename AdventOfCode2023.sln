@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode2023.Day1", "AdventOfCode2023.Day1\AdventOfCode2023.Day1.fsproj", "{9AF1418D-E0E7-41E4-AD16-13FE0C54AFA6}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AdventOfCode2023.Day1", "AdventOfCode2023.Day1\AdventOfCode2023.Day1.fsproj", "{9AF1418D-E0E7-41E4-AD16-13FE0C54AFA6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode2023.Day1Part2", "AdventOfCode2023.Day1Part2\AdventOfCode2023.Day1Part2.fsproj", "{8399358C-E549-46D6-B753-C75DF68AC8EE}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "AdventOfCode2023.Day1Part2", "AdventOfCode2023.Day1Part2\AdventOfCode2023.Day1Part2.fsproj", "{8399358C-E549-46D6-B753-C75DF68AC8EE}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "AdventOfCode2023.Day2", "AdventOfCode2023.Day2\AdventOfCode2023.Day2.fsproj", "{0D6566D2-D9D9-44F4-83E9-C77BC893E747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8399358C-E549-46D6-B753-C75DF68AC8EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8399358C-E549-46D6-B753-C75DF68AC8EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8399358C-E549-46D6-B753-C75DF68AC8EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D6566D2-D9D9-44F4-83E9-C77BC893E747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D6566D2-D9D9-44F4-83E9-C77BC893E747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D6566D2-D9D9-44F4-83E9-C77BC893E747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D6566D2-D9D9-44F4-83E9-C77BC893E747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
